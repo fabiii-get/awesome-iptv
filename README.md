@@ -27,7 +27,7 @@ A curated list of resources related to IPTV.
 
 ## Apps
 
-Applications with support of IPTV streams.
+Aplicaciones with support of IPTV streams.
 
 #### Web
 
